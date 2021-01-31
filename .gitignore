@@ -1,3 +1,7 @@
+## my files
+bin
+bin-int
+
 # The canonical out-of-tree build subdirectory
 build
 
